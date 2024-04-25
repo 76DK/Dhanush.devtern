@@ -1,1 +1,1 @@
-# dhanush.devtern
+This repository contains the source code for a stopwatch app developed.The app features basic stopwatch functionality such as start, stop, pause, and reset, along with the ability to record lap times.
